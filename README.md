@@ -24,10 +24,10 @@ bash
 Copy code
 python scripts/Model.py
 
-##Dataset
+## Dataset
 You can Find it Here- https://www.deepsig.ai/datasets/
 
-##Results
+## Results
 Accuracy: Achieved X% accuracy on the RadioML dataset across various SNR levels.
 Confusion Matrix: Demonstrates classification performance across modulation schemes.
 
@@ -40,8 +40,6 @@ Integrate hybrid architectures like CNN + RNN for improved temporal feature lear
 Optimize model performance for deployment on edge devices.
 Extend the dataset to include more real-world conditions.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+### Acknowledgments
 Special thanks to the creators of the RadioML dataset.
